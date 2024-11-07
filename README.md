@@ -3,4 +3,4 @@ Urban Functional Region Identification (UFRI) Dataset on Remote Sensing Images, 
 # Code
 The complete code and details are coming.
 # Acknowledgement
-Many thanks for the *GeoSeg* and *pytorch_lightning* contributions to our benchmark.
+Many thanks for the *GeoSeg*(https://github.com/WangLibo1995/GeoSeg) and *pytorch_lightning*(https://www.pytorchlightning.ai/) contributions to our benchmark.
