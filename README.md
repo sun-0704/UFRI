@@ -1,5 +1,6 @@
 # UFRI
 Urban Functional Region Identification (UFRI) Dataset on Remote Sensing Images, which is publicly available at [here](https://pan.baidu.com/s/1ZMpZhzifnengh0aVgyVTlg).
+![Some samples](Dataset_samples.jpg)
 # Code
 The complete code and details are coming.
 # Acknowledgement
