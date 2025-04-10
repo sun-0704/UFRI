@@ -1,6 +1,6 @@
 # UFRI
 Urban Functional Region Identification (UFRI) Dataset, which is publicly available at [here](https://pan.baidu.com/s/1ZMpZhzifnengh0aVgyVTlg).
-![Some samples](Dataset_samples.jpg)
+![Some samples](dataset.jpg)
 # Code
 The complete code and details are coming.
 # Acknowledgement
